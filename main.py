@@ -4,6 +4,8 @@ from src.mlProject.pipeline.stage_02_data_validtion import DataValiadtionTrainin
 from src.mlProject.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
 from src.mlProject.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
 from src.mlProject.pipeline.stage_05_model_evaluatio import ModelEvaluationTrainingPipeline
+
+
 STAGE_NAME = "Data Ingestion stage"
 
 try:
