@@ -145,7 +145,7 @@ Run this to export as env variables:
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = 566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 
 
     ECR_REPOSITORY_NAME = mlproj(ec2r name)
 
