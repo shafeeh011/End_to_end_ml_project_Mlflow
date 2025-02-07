@@ -139,15 +139,15 @@ Run this to export as env variables:
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID=
+    AWS_ACCESS_KEY_ID=AKIA6IY355RWJH5XM2OU
 
-    AWS_SECRET_ACCESS_KEY=
+    AWS_SECRET_ACCESS_KEY=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
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = 566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = mlproj(ec2r name)
 
 
 
