@@ -139,9 +139,9 @@ Run this to export as env variables:
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID=AKIA6IY355RWJH5XM2OU
+    AWS_ACCESS_KEY_ID=
 
-    AWS_SECRET_ACCESS_KEY=QOLuu/ZA5WgwPBueo782VxsaNnVSd8U3e81LP+T9
+    AWS_SECRET_ACCESS_KEY=
 
     AWS_REGION = us-east-1
 
